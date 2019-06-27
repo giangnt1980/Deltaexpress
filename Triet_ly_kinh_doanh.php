@@ -1,0 +1,12 @@
+<h1>Triết lý kinh doanh</h1>
+<a href="../index.php">Quay về trang chủ</a></br>
+<p><b>1. Trung thực</b></br>
+Trung thực là thành thực với người và cả với chính mình, luôn tuân thủ chuẩn mực đạo đức chân thật trong từng lời nói và hành động. Đó là một trong những phẩm chất quan trọng nhất tạo nên giá trị của một con người chân chính.
+Tính trung thực giúp con người trở nên đáng tin cậy trong mọi mối quan hệ, giao dịch, đó là sức mạnh lớn nhất giúp thuyết phục người khác. Người trung thực không chấp nhận gian dối trong bất kì việc gì. Trung thực làm nên nhân cách con người. Sống trung thực không phải lúc nào cũng dễ, nó đòi hỏi sự dũng cảm và nghiêm khắc với bản thân. Walter Anderson cho rằng: “Cuộc sống sẽ thay đổi khi chúng ta biết nắm bắt các cơ hội cho mình, nhưng cơ hội đầu tiên và khó khăn nhất lại là việc chúng ta phải thành thật với chính bản thân mình”. Ngay cả khi phải đối diện với thất bại, thua thiệt, ta vẫn cần phải sống trung thực, có thế, ta mới có thể ngẩng cao đầu mà sống và cảm thấy thanh thản trong lòng.</br>
+<b>2. Tận Tâm</b></br>
+Sự tận tâm bắt nguồn từ mong muốn của chúng ta để đạt được mục tiêu của mình. Động lực chung là cơ hội để làm việc có chất lượng, thể hiện chuyên môn, nâng cao kiến thức. Khi tận tụy bạn sẽ nổi trội trong việc lập kế hoạch và thiết lập mục tiêu. Bạn kiên trì theo đuổi chúng thông qua những thất bại, và bạn cho thấy sự tự kỷ luật, kiểm soát và quyết tâm
+Một thái độ tận tâm cũng làm tăng uy tín của bạn. Đáng tin cậy, chăm chỉ, và có tổ chức giúp bạn có được một vị thế cao hơn so với những người được coi là “lười biếng” hoặc “vô tổ chức.” Bạn sẽ được tin tưởng để làm việc từ xa, phụ trách phát triển nghề nghiệp, và  làm việc với các dự án quan trọng hoặc nhạy cảm. Và nếu là một nhà quản lý tận tâm, đội nhóm của bạn sẽ biết rằng bạn luôn giữ lời</br>
+<b>3. Tức thì</b></br>
+Kiến thức, ý tưởng, mục tiêu và giải pháp chỉ thực sự mang lại giá trị cho người đã tạo ra nó khi nó được gắn liền với hành động. Trong một thế giới luôn vận động và biến đổi không ngừng. Trong một môi trường kinh doanh mà chỉ cần đi chậm hơn người khác đã là thua cuộc, khả năng hành động vì vậy, quyết định thành công hay thất bại của bạn.
+Bởi vậy, nhìn thấy trước tương lai thôi là chưa đủ. Cần phải hành động. Và không phải chỉ hành động, mà phải là HÀNH ĐỘNG NGAY LẬP TỨC. Đó là cách duy nhất Deltaexpress giành được lợi thế trước các đối thủ cạnh tranh của mình.</br>
+</p>
