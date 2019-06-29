@@ -1,4 +1,4 @@
-<h1>Hello các bạn mới</h1>
+<h1>Web 2</h1>
 <a href="../index.php">Quay về trang chủ</a></br>
 <p>Công ty TNHH Deltaexpress xin được gửi đến Quý khách hàng lời chúc sức khỏe và lời chào trân trọng nhất.</br>
 Deltaexpress là công ty chuyên kinh doanh các dịch vụ: Chuyển phát nhanh trong nước và quốc tế cùng nhiều dịch vụ khác nhau như: Dịch vụ vận tải, Dịch vụ thuê xe ôtô, Dịch vụ Minitour theo yêu cầu, Dịch vụ cộng thêm…. Chúng tôi hiểu rằng việc vận chuyển chứng từ, tài liệu hay hàng hóa đóng vai trò rất quan trọng trong công việc kinh doanh của Quý khách. Với những kinh nghiệm trong việc đáp ứng các yêu cầu chuyển phát nhanh. Với những chuyến thư được tối ưu khả năng kết nối và vận chuyển liên tục, Deltaexpress mong muốn đem đến cho Quý khách hàng một dịch vụ chuyển phát tốt nhất với thời gian vận chuyển nhanh nhất.</br>
